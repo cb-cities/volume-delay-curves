@@ -1,0 +1,13 @@
+In merged_data.csv:
+
+Google part
+* speed = distance/duration_in_traffic
+* BPR_free_flow_speed is speed limit (kph) in (m/s). The speed limit in kph is possibly converted from mph
+	 ** Are the speed limit from 20mph to 50mph?
+* BPR_free_flow_time = distance/BPR_free_flow_speed
+
+DfT part
+* Volume is from DfT.csv
+	** Where does the dft_capacity come from?
+
+Others:
