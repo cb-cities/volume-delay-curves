@@ -5,6 +5,11 @@
 src/.ipynb_checkpoints/
 paper/
 paper_bz/
+tmp/
+functions/
+refs/
+stats/
+street_view_images/
 
 ### latex
 *.aux
