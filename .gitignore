@@ -10,6 +10,7 @@ functions/
 refs/
 stats/
 street_view_images/
+merged_data.csv
 
 ### latex
 *.aux
